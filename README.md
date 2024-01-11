@@ -3,13 +3,6 @@
 
 This is a simple 2-player fighting game built with HTML, a bit of CSS, and JavaScript. It features basic movement, attacks, and health systems and a timer.
 
-## Getting Started
-Clone the repository : 
-
-git clone https://github.com/your-username/fighting-game.git
-
-Open the index.html file in a web browser.
-
 ## Controls
 
 Player 1:
